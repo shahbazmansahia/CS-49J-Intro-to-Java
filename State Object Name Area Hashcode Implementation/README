@@ -1,0 +1,1 @@
+This was developed as a part of the Introduction to Java course offered at SJSU. An object class "State" emulates a US state and contains its name, area and hashcode values.
